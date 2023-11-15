@@ -1,0 +1,5 @@
+﻿  hw4.cpp
+  main.cpp
+C:\Users\79185\Desktop\С++LAB\Project_Student\main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Project_Student.vcxproj -> C:\Users\79185\Desktop\С++LAB\Project_Student\x64\Debug\Project_Student.exe
